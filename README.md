@@ -29,4 +29,5 @@ Track operational delays
 
 Optimize product performance and logistics strategy
 
-Dashboard interaction <a href="https://github.com/Naresh19-hub/e-commerce-supply-chain-data-mysql/blob/main/order_region_days_hours_minutes.mysql.png">view Dashboard</a>
+## Dashboard 
+![order_region_days_hours_minutes mysql](https://github.com/user-attachments/assets/723eed79-86c1-4acb-a9ea-dabb0fb42711)
